@@ -42,4 +42,4 @@ if perm == 1:
         file.write(password)
         print("File Created!")
 else:
-    print("Thank You!")
+    print("Done!")
